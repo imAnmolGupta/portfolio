@@ -10,14 +10,14 @@ export const EXPERIENCES = [
     year: "2022 - Present",
     role: "Full Stack Developer",
     company: "Rayfide Infotech",
-    description: `Contributed as part of a team to develop and maintain web applications using JavaScript, React.js, and Node.js. Assisted in implementing RESTful APIs and integrating them with MongoDB databases. Collaborated with stakeholders to understand project requirements and align on timelines.`
+    description: `Contributed as part of a team to develop and maintain web applications using JavaScript, React.js, and Node.js. Assisted in implementing RESTful APIs and integrating them with MongoDB databases. Collaborated with stakeholders to understand project requirements and align on timelines.`,
     technologies: ["Javascript", "React.js", "Node.js", "mongoDB"],
   },
   {
     year: "2021 - 2022",
     role: "Software Engineer",
     company: "Capgemini",
-    description: `Worked closely with backend developers to integrate frontend components with Node.js APIs and maintained RESTful APIs. Focused on implementing responsive designs and optimizing overall performance.`
+    description: `Worked closely with backend developers to integrate frontend components with Node.js APIs and maintained RESTful APIs. Focused on implementing responsive designs and optimizing overall performance.`,
     technologies: ["HTML", "CSS", "Javascript", "React.js", "Node.js", "mongoDB", "mySQL"],
   },
 ];
