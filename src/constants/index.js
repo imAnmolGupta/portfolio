@@ -52,4 +52,6 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "Gurugram, IN ",
   email: "itsanmolg@gmail.com",
+  linkedin:"https://www.linkedin.com/in/imanmolgupta/",
+  github:"https://github.com/imAnmolGupta",
 };
