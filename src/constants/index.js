@@ -51,6 +51,5 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Gurugram, IN ",
-  phoneNo: "+91 9654614819 ",
   email: "itsanmolg@gmail.com",
 };
