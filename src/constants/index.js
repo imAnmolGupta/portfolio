@@ -23,30 +23,33 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
-  
   {
     title: "Hotel Booking System",
     image: project1,
     description: 
       "A full-stack hotel booking system with features like user authentication, searching, filtering, and an admin panel. The application includes interactive and responsive user interfaces and efficient back-end API integrations.",
     technologies: ["Node.js", "Express.js", "React.js", "MongoDB", "Tailwind CSS", "Redux"],
+    github: "https://github.com/imAnmolGupta/hotel-booking",
+    live: "https://hotel-booking-demo.vercel.app"
   },
   {
-    title: "CodeSocial - Social Media WebApp ",
+    title: "CodeSocial - Social Media WebApp",
     image: project2,
     description: 
       "A fully functional social media web application allowing users to create profiles, post content, comment, and interact securely and efficiently. It features secure authentication and responsive design.",
-    technologies: ["Node.js", "Express.js","Mongoose" ,"Docker", "MVC Architecture"],
-
+    technologies: ["Node.js", "Express.js", "Mongoose", "Docker", "MVC Architecture"],
+    github: "https://github.com/imAnmolGupta/codesocial",
+    live: "https://codesocial-demo.vercel.app"
   },
   {
     title: "Portfolio Website",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Tailwind","Framer motion"],
-  },
- 
+      "A personal portfolio website showcasing projects, skills, and contact information. Built with modern technologies and featuring smooth animations and responsive design.",
+    technologies: ["React", "Tailwind CSS", "Framer Motion", "JavaScript"],
+    github: "https://github.com/imAnmolGupta/portfolio",
+    live: "https://anmolgupta.vercel.app"
+  }
 ];
 
 export const CONTACT = {
